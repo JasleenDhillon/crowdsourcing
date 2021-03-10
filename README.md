@@ -1,1 +1,5 @@
 # crowdsourcing
+Sentiment analysis is useful in social media monitoring to automatically characterize the overall feeling or mood of consumers as replicated in social media toward a specific brand or political or social views that a group of people share and determine whether they are viewed positively or negatively on the web. In recent years, the exponential increase in the Internet usage and exchange of public opinion is the driving force behind Sentiment Analysis today. The Web is a huge repository of structured and unstructured data. The analysis of this data to extract latent public opinion and sentiment is a challenging task.
+With this project we aim to use the machine learning-based approaches to sentiment analysis and brings out the salient features of techniques in place. The prominently used techniques and methods in machine learning- emoticon based sentiment analysis included in the project are SVC,LinearSVCclassifier andSentiWordNetclassifier.Withtheprogressionoftheprojectwe see how these machine-learning algorithms produce different results and accuracies.
+
+The code is available in both R and Python for you to give it a try.
